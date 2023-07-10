@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>Junior developer</b> skilled in WEB, Data Analysis and Machine Learning.🚀<br/>
+  👋&nbsp; Hi there! I'm <b>developer</b> skilled in WEB, Data Analysis and Machine Learning.🚀<br/>
   I have experience 0.N years of Web development and 0.N years of Data Analysis.<br/>
   At present, I have been interested in constuct data pipeline<br/>
   Sometimes I study machine learning model and try to make it into real-world service.(still in learning phase💖)<br/><br/>
